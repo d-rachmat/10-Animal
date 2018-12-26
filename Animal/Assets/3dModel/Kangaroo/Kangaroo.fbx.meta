@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 4252e3abaca92478e9a749e9418d87fc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: CTRL-arm.L
+    100004: CTRL-arm.R
+    100006: CTRL-foot.L
+    100008: CTRL-foot.L.001
+    100010: CTRL-foot.L.001_end
+    100012: CTRL-foot.R
+    100014: CTRL-foot.R.001
+    100016: CTRL-foot.R.001_end
+    100018: CTRL-hand.L
+    100020: CTRL-hand.L_end
+    100022: CTRL-hand.R
+    100024: CTRL-hand.R_end
+    100026: CTRL-head
+    100028: CTRL-head_end
+    100030: CTRL-neck
+    100032: CTRL-shin.L
+    100034: CTRL-shin.R
+    100036: CTRL-spine
+    100038: CTRL-tail.002
+    100040: CTRL-tail.003
+    100042: CTRL-tail.003_end
+    100044: CTRL-tail.01
+    100046: CTRL-thight.L
+    100048: CTRL-thight.R
+    100050: CTRL-torso
+    100052: CTRL-upperarm.L
+    100054: CTRL-upperarm.R
+    100056: Cube
+    100058: //RootNode
+    100060: root
+    400000: Armature
+    400002: CTRL-arm.L
+    400004: CTRL-arm.R
+    400006: CTRL-foot.L
+    400008: CTRL-foot.L.001
+    400010: CTRL-foot.L.001_end
+    400012: CTRL-foot.R
+    400014: CTRL-foot.R.001
+    400016: CTRL-foot.R.001_end
+    400018: CTRL-hand.L
+    400020: CTRL-hand.L_end
+    400022: CTRL-hand.R
+    400024: CTRL-hand.R_end
+    400026: CTRL-head
+    400028: CTRL-head_end
+    400030: CTRL-neck
+    400032: CTRL-shin.L
+    400034: CTRL-shin.R
+    400036: CTRL-spine
+    400038: CTRL-tail.002
+    400040: CTRL-tail.003
+    400042: CTRL-tail.003_end
+    400044: CTRL-tail.01
+    400046: CTRL-thight.L
+    400048: CTRL-thight.R
+    400050: CTRL-torso
+    400052: CTRL-upperarm.L
+    400054: CTRL-upperarm.R
+    400056: Cube
+    400058: //RootNode
+    400060: root
+    2100000: Material
+    4300000: Cube
+    7400000: Armature|ArmatureAction
+    9500000: //RootNode
+    13700000: Cube
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|ArmatureAction
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
